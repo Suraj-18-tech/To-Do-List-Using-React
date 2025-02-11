@@ -7,7 +7,6 @@ import { RedirectToSignIn, SignedIn, SignedOut, SignIn } from "@clerk/clerk-reac
 
 function App() {
   const [count, setCount] = useState(0)
-
   return (
     <>
       <Router>

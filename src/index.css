@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+@keyframes colorChange {
+    66% { color: orange; }
+    100% { color: yellow; }
+    
+  }
+  
+  .animate-colorChange {
+    animation: colorChange 4s infinite alternate;
+  }
+  
