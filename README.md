@@ -1,4 +1,4 @@
-#TaskWizard - To-Do List 📝<br>
+# TaskWizard - To-Do List 📝<br>
 
 A simple and efficient To-Do List application built using React. It helps users manage tasks effectively with an intuitive interface.<br>
 
